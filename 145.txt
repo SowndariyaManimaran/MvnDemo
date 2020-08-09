@@ -1,1 +1,1 @@
-from jenkins test polling
+from jenkins test poll function
